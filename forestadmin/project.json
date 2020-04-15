@@ -1,0 +1,90 @@
+{
+  "project": {
+    "name": "sd-0x-block12-project-movie-cards-library",
+    "description": "Projeto de Movie Cards Library",
+    "enabled": true,
+    "deadline": "YYYY-MM-DD 17:10:00",
+    "requirements": [
+      {
+        "description": "Crie um componente chamado `Header`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize o texto \"Movie Cards Library\" dentro de `Header`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie um componente chamado `MovieList`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize componentes `MovieCard` dentro de `MovieList`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Passe uma key para cada `MovieCard` renderizado",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie um componente chamado `MovieCard`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize a imagem do filme",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize o título do filme",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize o subtítulo do filme",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize a sinopse do filme",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize um componente `Rating` dentro de `MovieCard`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Passe como prop para o componente `Rating` o atributo `rating`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie um componente chamado `Rating`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Renderize a nota de um filme dentro de `Rating`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "`App` deve renderizar `Header`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "`App` deve renderizar `MovieList`",
+        "enabled": true,
+        "bonus": false
+      }
+    ]
+  }
+}

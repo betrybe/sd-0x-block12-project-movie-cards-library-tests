@@ -1,0 +1,18 @@
+{
+  "<Header /> component renders without crashing": 0,
+  "<Header /> component it includes the text `Movie Cards Library` inside a h1 tag": 0,
+  "<MovieList /> component renders without crashing": 0,
+  "<MovieList /> component renders a `MovieCard` component for each object in the array": 0,
+  "<MovieList /> component sets the movie title as the key in each rendered `MovieCard`": 0,
+  "<MovieCard /> component renders without crashing": 0,
+  "<MovieCard /> component renders the movie image inside an `image` tag": 0,
+  "<MovieCard /> component renders the movie title inside an `h4` tag": 0,
+  "<MovieCard /> component renders the movie subtitle inside an `h5` tag": 0,
+  "<MovieCard /> component renders the movie storyline inside a `p` tag": 0,
+  "<MovieCard /> component renders a `Rating` component": 0,
+  "<MovieCard /> component passes the rating attribute to the `Rating` component": 0,
+  "<Rating /> component renders without crashing": 0,
+  "<Rating /> component renders the rating inside an element with the class `rating`": 0,
+  "<App /> component renders a `Header` component": 0,
+  "<App /> component renders a `MovieList` component": 0
+}
