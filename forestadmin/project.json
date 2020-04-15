@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "betrybe/sd-0x-block12-project-movie-cards-library",
+    "name": "sd-0x-block12-project-movie-cards-library",
     "description": "Projeto de Movie Cards Library",
     "enabled": true,
-    "deadline": "2020-04-21 17:10:00",
+    "deadline": "YYYY-MM-DD 17:10:00",
     "requirements": [
       {
         "description": "Crie um componente chamado `Header`",
