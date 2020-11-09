@@ -71,19 +71,9 @@
         "bonus": false
       },
       {
-        "description": "Renderize a nota de um filme dentro de `Rating`",
+        "description": "Implemente o componente App",
         "enabled": true,
-        "bonus": false
-      },
-      {
-        "description": "`App` deve renderizar `Header`",
-        "enabled": true,
-        "bonus": false
-      },
-      {
-        "description": "`App` deve renderizar `MovieList`",
-        "enabled": true,
-        "bonus": false
+        "bonus": true
       }
     ]
   }
